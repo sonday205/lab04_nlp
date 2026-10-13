@@ -77,5 +77,4 @@ Bài viết tay nằm trong `calculations.pdf`; 5 prediction bạn cung cấp n�
 - Tool: Codex.
 - Purpose: hỗ trợ preprocessing, sử dụng sklearn/gensim, visualization, debugging và rút gọn nội dung có sẵn trong ZIP.
 - Generated: code thí nghiệm, notebook, biểu đồ và khung bài tự làm.
-- Modified: rút gọn code chọn C bị lặp, bổ sung baseline và các file còn thiếu; nhập và rút gọn phần nhận xét từ `lab04_completed.zip`. Bản nhận xét trong ZIP ghi nhận đã được ChatGPT hỗ trợ tạo.
 - Verified: trước đó đã chạy thí nghiệm/notebook và kiểm tra metrics/inference. 
